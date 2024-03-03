@@ -61,6 +61,9 @@
     .home_2{
         margin-top: 402px;
     }
+    .home__one2{
+        padding-top: 50px;
+    }
     .about__main{
         justify-content: flex-start;
         align-self: center;
